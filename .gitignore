@@ -6,3 +6,4 @@ pkg/*
 .rbx/*
 Gemfile.lock
 coverage/
+.idea/
